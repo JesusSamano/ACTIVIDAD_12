@@ -1,0 +1,42 @@
+# ninja log v5
+21	489	6988008218625916	User_Interface_autogen/timestamp	4f2aeb73145b4d29
+1635	6406	6986370352994835	CMakeFiles/User_Interface.dir/User_Interface_autogen/mocs_compilation.cpp.obj	a8bb531095688bfe
+21	489	6988008218625916	User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+21	489	6988008218625916	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/timestamp	4f2aeb73145b4d29
+21	489	6988008218625916	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+4954	5433	6986360778745852	User_Interface.exe	1b80412ef90a93d6
+1640	5913	6986370348049551	CMakeFiles/User_Interface.dir/main.cpp.obj	2eaa74621c996f49
+606	4263	6986371969083856	CMakeFiles/User_Interface.dir/mainwindow.cpp.obj	f375195d7d412ebc
+27	584	6988008524321830	User_Interface_autogen/timestamp	4f2aeb73145b4d29
+27	584	6988008524321830	User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+27	584	6988008524321830	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/timestamp	4f2aeb73145b4d29
+27	584	6988008524321830	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+607	4093	6988008559348951	CMakeFiles/User_Interface.dir/mainwindow.cpp.obj	f375195d7d412ebc
+25	546	6988009152023221	User_Interface_autogen/timestamp	4f2aeb73145b4d29
+25	546	6988009152023221	User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+25	546	6988009152023221	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/timestamp	4f2aeb73145b4d29
+25	546	6988009152023221	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+578	4140	6988009187842621	CMakeFiles/User_Interface.dir/mainwindow.cpp.obj	f375195d7d412ebc
+14	504	6988009527707832	User_Interface_autogen/timestamp	4f2aeb73145b4d29
+14	504	6988009527707832	User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+14	504	6988009527707832	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/timestamp	4f2aeb73145b4d29
+14	504	6988009527707832	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+525	4039	6988009563052881	CMakeFiles/User_Interface.dir/mainwindow.cpp.obj	f375195d7d412ebc
+19	549	6988009876892117	User_Interface_autogen/timestamp	4f2aeb73145b4d29
+19	549	6988009876892117	User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+19	549	6988009876892117	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/timestamp	4f2aeb73145b4d29
+19	549	6988009876892117	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+572	4162	6988009912992787	CMakeFiles/User_Interface.dir/mainwindow.cpp.obj	f375195d7d412ebc
+9	513	6988014001877753	User_Interface_autogen/timestamp	4f2aeb73145b4d29
+9	513	6988014001877753	User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+9	513	6988014001877753	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/timestamp	4f2aeb73145b4d29
+9	513	6988014001877753	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+20	583	6988015004812268	User_Interface_autogen/timestamp	4f2aeb73145b4d29
+20	583	6988015004812268	User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+20	583	6988015004812268	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/timestamp	4f2aeb73145b4d29
+20	583	6988015004812268	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+607	676	6988015005759107	CMakeFiles/User_Interface.dir/main.cpp.obj	2eaa74621c996f49
+20	550	6988015626718154	User_Interface_autogen/timestamp	4f2aeb73145b4d29
+20	550	6988015626718154	User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
+20	550	6988015626718154	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/timestamp	4f2aeb73145b4d29
+20	550	6988015626718154	C:/Users/crist/Desktop/Quinto Semestre/Sem algoritmia/Actividad 3/build-User_Interface-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/User_Interface_autogen/mocs_compilation.cpp	4f2aeb73145b4d29
